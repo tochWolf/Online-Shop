@@ -1,8 +1,11 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=36&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=🛒+T+MART;Fresh+Finds,+Best+Prices;Modern+Responsive+E-Commerce+Website;Built+with+HTML+CSS+%26+JavaScript" />
+# 🛒 T-MART
 
-<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=34&duration=3000&pause=1000&color=D97757&center=true&vCenter=true&width=900&lines=Fresh+Finds,+Best+Prices;Modern+E-Commerce+Website;Shop+Smarter+Today!">
+
+</div>
+ <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -10,7 +13,6 @@
 <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge"/>
 </p>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="420">
 
 ### ⚡ A Beautiful Single-Page E-Commerce Website Built Using Pure HTML, CSS & JavaScript
 
@@ -24,7 +26,6 @@ Modern UI • Responsive Design • Shopping Cart • Checkout • Formspree Int
 
 # ✨ Features
 
-<img align="right" width="330" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
 
 ### 🛍 Shopping Experience
 
@@ -78,17 +79,29 @@ T-Mart
 
 ---
 
-# 🎬 Project Preview
 
-<p align="center">
 
-<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="650">
+# 📸 Project Preview
 
-</p>
+<div align="center">
 
-> Replace this GIF with screenshots of your website.
+##  Home Page
+
+<img src="assets/home.png" width="900"/>
 
 ---
+
+##  Shopping Cart
+
+<img src="assets/cart.png" width="900"/>
+
+---
+
+##  Checkout Page
+
+<img src="assets/checkout.png" width="900"/>
+
+</div>
 
 # ⚙ Installation
 
